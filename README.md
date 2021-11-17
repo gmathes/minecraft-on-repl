@@ -1,0 +1,2 @@
+press the run button and chrome, and the minecraft launcher will open. DO not expect repl to run fairly new versions. you can use stacer to see your vm usage. if it says "Loading libraries for the client." that is normal, it is loading the launcher.
+have fun!
